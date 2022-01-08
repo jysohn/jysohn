@@ -1,6 +1,7 @@
 ### Hi there 👋
-I'm currently exploring various Solidity based projects to better understand smart-contract programming.
-Many of these projects involve building on top of numerous exiting tutorials.
+I'm currently exploring various Solidity based projects to better understand smart-contract programming. Besides Solidity, I have some past experience in Python and Java.
+
+Some of these projects involve building on top of numerous exiting tutorials.
 
 <!--
 **jysohn/jysohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
