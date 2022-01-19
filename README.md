@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm currently exploring various Solidity based projects to better understand smart-contract programming. Besides Solidity, I have some past experience in Python and Java.
+I'm currently exploring various Solidity based projects to better understand smart-contract programming. Besides Solidity, I have some past experience in Python and Java. At this time, I'm building an interface on top of AAVE protocol lending pools.
 
-Some of these projects involve building on top of numerous exiting tutorials.
+Some of these projects involve building on top of numerous existing tutorials.
 
 - 🔭 I’m currently working on building dApps.
 - 👯 I’m looking to collaborate on crypto projects.
